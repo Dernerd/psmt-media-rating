@@ -31,7 +31,7 @@ class PSMT_Rating_Widget extends WP_Widget {
 			'description' => __( 'Ein Widget zum Anzeigen der Top-Medien des Benutzers, Bilder des Benutzers, Woche, Monat, Jahr ', 'psmt-media-rating' ),
 		);
 
-		parent::__construct( false, _x( 'Bestbewertete Medien (Psource Mediathek)', 'widget name', 'psmt-media-rating' ), $widget_ops );
+		parent::__construct( false, _x( 'PSM Bestbewertete Medien', 'widget name', 'psmt-media-rating' ), $widget_ops );
 	}
 
 	/**

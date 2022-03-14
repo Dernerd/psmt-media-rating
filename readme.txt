@@ -3,7 +3,7 @@ Contributors: DerN3rd
 Tags: Psource Mediathek, buddypress
 Requires at least: 4.0
 Tested up to: 5.6.0
-Stable tag: 1.1.1
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,34 +15,29 @@ Medienbewertungs-Addon für Psource Mediathek. Ermögliche Benutzern das Bewerte
 
 Features:-
 
-* Rating Media
-* Site admin controls for which type of media can be rated( you can selet Photo, audio, video etc), who can rate it.
-* Can be enable for Sitewide, Members, groups media .
-* List top rated Media by type/component.
+* Medien Bewertung
+* Der Seiten-Administrator steuert, welche Art von Medien bewertet werden kann (Du kannst Foto, Audio, Video usw. auswählen), sowie wer es bewerten kann.
+* Kann für Sitewide, Mitglieder, Gruppenmedien aktiviert werden.
+* Am besten bewertete Medien nach Typ/Komponente auflisten.
  
-== Installation ==
+== Mehr PSOURCE ==
 
-This section describes how to install the plugin and get it working.
+= Finde mehr Piestingtal.Source =
 
-You may need to follow the following steps.
+Wirf einen Blick in unser [PSOURCE Sortiment](https://n3rds.work/psource_kategorien/psource-plugins/) und hole noch mehr aus Deinem WordPress/ClassicPress!
 
-1. Download `psmt-media-rating.xyz.zip` (where xyz is version number )and extract
-2. Upload `psmt-media-rating` directory to the `/wp-content/plugins/` directory
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. That's all.
+Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswork-digalize-das-piestingtal/newsletter-management/) über unsere Piestingtal.Source informiert!
 
-== Frequently Asked Questions ==
+== Hilf uns ==
 
-= Where do I get support? =
-We request you to use [BuddyDev Forums](https://n3rds.work/support/forums/) for all the support questions. We love helping. Using forums allows us to assist you better and quicker.
+Viele, viele Kaffees konsumieren wir während wir an unseren Plugins und Themes arbeiten.
+Wie wärs? Möchtest Du uns mit einer Kaffee-Spende bei der Arbeit an unseren Plugins unterstützen?
 
-== Screenshots ==
+= Unterstütze uns =
 
-1. Admin options screenshot-1.png
-2. Top rated medid Widget screenshot-2.png
-3. Single gallery screen screenshot-3.png
-4. Single media screen screenshot-4.png
-5. In lightbox screenshot-5.jpg
+Mach eine [Spende per Überweisung oder PayPal](https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free-werke/) wir Danken Dir!
+
+Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswork-digalize-das-piestingtal/newsletter-management/) über unsere Piestingtal.Source informiert!
 
 == Changelog ==
 

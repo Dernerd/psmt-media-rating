@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Psource Mediathek Medienbewertung
  * Plugin URI: https://n3rds.work/piestingtal_source/medienbewertung-fuer-psource-mediathek-plugin/
- * Version: 1.1.2
+ * Version: 1.1.3
  * Description: Wird mit Psource Mediathek zur Bewertung von Medien verwendet.
  * Author: DerN3rd
  * Author URI: https://n3rds.work
@@ -12,7 +12,7 @@
  * @package psmt-media-rating
  **/
 
-require 'psource-plugin-update/plugin-update-checker.php';
+require 'psource/psource-plugin-update/psource-plugin-updater.php';
 $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=psmt-media-rating', 
 	__FILE__, 
