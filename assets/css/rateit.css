@@ -86,8 +86,7 @@
     width: 16px;
     height: 16px;
     display: -moz-inline-box;
-    display: inline-block;
-    float: left;
+    display: inline-block !important;
     outline: none;
     border:none;
     padding: 0;
