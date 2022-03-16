@@ -3,7 +3,7 @@ Contributors: DerN3rd
 Tags: Psource Mediathek, buddypress
 Requires at least: 4.0
 Tested up to: 5.6.0
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,25 +41,5 @@ Halte Dich mit unserem [Newsletter](https://n3rds.work/webmasterservice-n3rdswor
 
 == Changelog ==
 
-= 1.0.7 =
- * Fix shortcode bug when no top-rated media found
-
-= 1.0.6 =
- * Extended shortcode to allow rating interval and added support psmt-list-media per_page attribute.
-
-= 1.0.5 =
- * Added support for psmt-list-media shortcode
-
-= 1.0.4 =
- * Fatal error fix when BuddyPress not active
- * Widget components have taken from Psource Mediathek active components
- * Modify widget render function
- * Added file and function documentation
-= 1.0.3 =
- * Css minor change
-= 1.0.2 =
- * Attaching rating interface on lower priority
-= 1.0.1 =
- * Fatal error fix for php version lower than 5.5
-= 1.0.0 =
- * Initial Release on wp.org repo.
+= 1.1.4 =
+ * Initial Release auf Git/Psource

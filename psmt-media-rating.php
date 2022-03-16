@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Psource Mediathek Medienbewertung
  * Plugin URI: https://n3rds.work/piestingtal_source/medienbewertung-fuer-psource-mediathek-plugin/
- * Version: 1.1.3
+ * Version: 1.1.4
  * Description: Wird mit Psource Mediathek zur Bewertung von Medien verwendet.
  * Author: DerN3rd
  * Author URI: https://n3rds.work
